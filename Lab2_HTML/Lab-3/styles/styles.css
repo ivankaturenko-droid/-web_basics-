@@ -1,0 +1,17 @@
+body {
+  background-color: lightyellow;
+}
+
+b {
+    color: green;
+    text-decoration: underline;
+}
+
+ol, ul {
+    border: 1px solid lightcoral;
+}
+
+h1{
+    color:blue
+}
+
