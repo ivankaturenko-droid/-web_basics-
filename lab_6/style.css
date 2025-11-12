@@ -98,7 +98,8 @@ body,
 p,
 ul,
 a,
-div {
+div,
+li {
   font-family: "Nunito Sans", sans-serif;
 }
 h1,
